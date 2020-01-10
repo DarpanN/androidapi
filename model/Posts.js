@@ -12,7 +12,7 @@ const PostSchema = new Schema({
         caption : {
             type : String,
         },
-        image : {
+        flowers : {
             type : String,
         },
         created_at : { 

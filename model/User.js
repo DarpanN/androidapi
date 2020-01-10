@@ -26,7 +26,7 @@ const UserSchema = new Schema({
     },
     image : {
         type : String,
-        default : "female.png"
+        default : "fb.jpg"
     },
     tokens: [{
         token: {
